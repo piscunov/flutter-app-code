@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311341259929",
+    "firebase_url": "https://time-and-money-tracker.firebaseio.com",
+    "project_id": "time-and-money-tracker",
+    "storage_bucket": "time-and-money-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311341259929:android:d915cb212efb79fb2dac08",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311341259929-epqrs9sd49kjlo5l87n2mu37dkio2qhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsZejQwJCMqJABjzoePxI8R7d5HE43X5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311341259929-epqrs9sd49kjlo5l87n2mu37dkio2qhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
